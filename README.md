@@ -1,6 +1,7 @@
 Calculadora desenvolida com a Linguagem de Programação Pyhton.
 É um projeto que foi desenvolvido com o bjetivo de praticar os meus conhecimentos,
 com a utilização das seguintes funções:
+
 -if/elif/else
  bloco de código para verificar as condições 
 https://docs.python.org/3.13/tutorial/controlflow.html#pass-statements
